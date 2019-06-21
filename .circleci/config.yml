@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  job1:
     docker: # use the docker executor type; machine and macos executors are also supported
       - image: circleci/node:10.15.3 # the primary container, where your job's commands are run
     steps:
@@ -8,6 +8,6 @@ jobs:
       - run: echo "hello world" # run the `echo` command
 workflows:
   version: 2
-  build_and_test:
+  workflow1:
     jobs:
-      - build
+      - job1

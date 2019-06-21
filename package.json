@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon src/index.js",
     "test": "jest .",
-    "e2e-test": "jest e2e"
+    "integration-test": "jest integration"
   },
   "author": "",
   "license": "ISC",
