@@ -31,3 +31,5 @@
 
 * We are using CircleCI for this project
 * The pipeline config is in `.circleci/` in the root folder
+* Instructions to set up Circle CI are here:
+  - https://github.com/mavericks-consulting/ci-cd-juniordev.github.io/blob/master/Instructions.md
