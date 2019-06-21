@@ -2,6 +2,8 @@
 
 * Github account
 * Node
+* Heroku account
+  - If you do not have a Heroku account, you can create one at: https://signup.heroku.com/
 
 # Tools used
 
