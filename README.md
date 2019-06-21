@@ -1,9 +1,5 @@
 # Pre-requisites
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> Add README
 * Github account
 * Node
 
