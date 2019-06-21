@@ -2,8 +2,10 @@
 
 * Github account
 * Node
-* Heroku account
-  - If you do not have a Heroku account, you can create one at: https://signup.heroku.com/
+* Heroku
+  - Account: If you do not have a Heroku account, you can create one at - https://signup.heroku.com/
+  - CLI: In case you haven't installed it already - https://devcenter.heroku.com/articles/heroku-cli
+  
 
 # Tools used
 
